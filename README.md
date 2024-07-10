@@ -1,0 +1,2 @@
+# AI-NTUA-ECE-2023
+AI Lab Exercise For ECE NTUA 2023-2024
